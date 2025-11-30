@@ -1,0 +1,43 @@
+.cover-bg {
+  background-image: url('588609167_1184320346967039_5622367173160775164_n.png');
+  background-size: cover;        
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;                
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+    text-align: center;
+}
+
+h1 {
+  color: rgb(244, 130, 149);
+  font-size: 40px;
+}
+
+p {
+   color:  rgb(244, 130, 149);
+  font-size: 17px;
+}
+
+#christine {
+  border: 3px dotted #ffb7d1;  
+  padding: 20px;             
+  border-radius: 15px;
+  background-color: #fff5fa;;      
+}
+
+a{
+  color:  rgb(244, 130, 149);
+  font-size: 17px;
+  text-decoration: double;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(244, 130, 149); 
+}
